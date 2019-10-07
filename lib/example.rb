@@ -1,5 +1,5 @@
 # Use this space to code along with the readme
-$ greeeting.rb 
+$ greeting.rb 
 
 def greeting
 phrase = "Hello World!"
